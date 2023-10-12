@@ -63,4 +63,6 @@ use {
 
 use 'ray-x/go.nvim'
 use 'ray-x/guihua.lua'
+
+use 'm4xshen/autoclose.nvim'
 end)
